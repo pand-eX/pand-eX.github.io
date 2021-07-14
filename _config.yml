@@ -1,13 +1,13 @@
 # Site settings
-title: Engenheiro de Dados
-description: Um Portfólio e CV
+title: Data Engineer
+description: Portfólio
 # baseurl: ""
 url: "http://pand-eX.github.io"
 
 # User settings
 username: Henrique M Castro
-user_description: Sou considerado um geek gosto de estar ligado nas tendências da tecnologia e como ela pode impactar não só a minha vida mas também de uma companhia. Busco usar o processo de ETL(Extract, Transform and Load) para preparar e carregar os dados para uso analítico ou operacional lidando com conjuntos de dados estruturados e não estruturados aplicando uma variedade de ferramentas tecnológica.  Eu gosto de utilizar meu conhecimento para criar sistemas e resolver problemas, seja ele de processamento de dados em Batch ou Streaming e manipular quantidades imensas de dados.   Eu tenho a responsabilidade de transformar uma aplicação analítica em produtos ou serviços e que pode usar arquitetura de Microserviços para isso! Meu proposito é resolver problemas e fornecer soluções e plataformas de Big Data modulares e escaláveis para que os Cientistas de dados possam fazer seu trabalho de análise. Se você não sabe para onde quer ir, então, qualquer caminho serve. 
-user_title: Engenheiro de Dados
+user_description: I am considered a geek to be connected to technology trends and how it can impact not only my life but also a company. I seek to use the Extract(Transform and Load) ETL (ETL) process to prepare and load data for analytical or operational use by dealing with structured and unstructured data sets by applying a variety of technological tools. I like to use my knowledge to create systems and solve problems, be it batch or streaming data processing and manipulating huge amounts of data. I have a responsibility to turn an analytical application into products or services and i can use Microservices architecture for this! My purpose is to solve problems and provide modular and scalable big data solutions and platforms so that data scientists can do their analysis work. If you don't know where you want to go, then any path will do.
+user_title: Data Engineer
 email: "henricao_7@yahoo.com.br"
 twitter_username: "https://twitter.com/@pandeX__"
 github_username: "https://github.com/pand-eX"
